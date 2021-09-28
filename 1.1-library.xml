@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <technical>
+        <book>
+            <title>Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People</title>
+            <author>Aditya Y. Bhargava</author>
+            <isbn>1617292230</isbn>
+        </book>
+        <book>
+            <title>Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</title>
+            <author>Martin Kleppmann</author>
+            <isbn>1449373321</isbn>
+        </book>
+        <book>
+            <title>Python Crash Course: A Hands-On, Project-Based Introduction to Programming</title>
+            <author>Eric Matthes</author>
+            <isbn>1593276036</isbn>
+        </book>
+    </technical>
+    <cookery>
+        <book>
+            <title>Flour Water Salt Yeast: The Fundamentals of Artisan Bread and Pizza</title>
+            <author>Ken Forkish</author>
+            <isbn>160774273X</isbn>
+        </book>
+        <book>
+            <title>Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking</title>
+            <author>Samin Nosrat</author>
+            <isbn>1476753830</isbn>
+        </book>
+        <book>
+            <title>Ratio: The Simple Codes Behind the Craft of Everyday Cooking</title>
+            <author>Michael Ruhlman</author>
+            <isbn>1416566112</isbn>
+        </book>
+    </cookery>
+</catalog>
