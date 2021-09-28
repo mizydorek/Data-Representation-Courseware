@@ -1,2 +1,1 @@
-# data-representation-courseware
-Data Representation Courseware
+## Data Representation Courseware
